@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'BrainBase Wiki',
   tagline: 'Det foretrukne nettverket for selvstendige konsulenter',
-  url: 'https://brainbase-wiki.netlify.app',
+  url: 'https://wiki.brainbase.no',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
