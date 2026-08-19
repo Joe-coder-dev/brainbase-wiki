@@ -1,0 +1,22 @@
+{
+  "cmfcmf/d-s-l.searchBar.placeholder": {
+    "message": "Søk...",
+    "description": "Placeholder text in the search bar"
+  },
+  "cmfcmf/d-s-l.searchBar.noResults": {
+    "message": "Fant ingen resultater.",
+    "description": "Shown when a search returns nothing"
+  },
+  "cmfcmf/d-s-l.searchBar.clearButtonTitle": {
+    "message": "Fjern",
+    "description": "Title of the button that clears the search input"
+  },
+  "cmfcmf/d-s-l.searchBar.detachedCancelButtonText": {
+    "message": "Avbryt",
+    "description": "Text of the cancel button in the detached (mobile) search modal"
+  },
+  "cmfcmf/d-s-l.searchBar.submitButtonTitle": {
+    "message": "Send inn",
+    "description": "Title of the search submit button"
+  }
+}
