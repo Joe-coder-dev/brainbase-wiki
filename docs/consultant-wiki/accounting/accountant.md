@@ -13,7 +13,7 @@ Kontaktperson: Giang Chu – 980 52 546 / kuber@kuber.no.
 NB: Nevn at du er et verifisert BrainBase-medlem.
 * [Saga Regnskap og Økonomi](http://www.sagaro.no/). De er flinke på å små/enmanns AS, har fokus på rådgivning og kostnadsstyring. They are a traditional accountant, and fairly large in size, and will handle everything for you so you don’t need to think about accounting. They don’t support Fiken.
 * [SMB Accounting](https://smba.no/) - SMB Accounting leverer alle «standard» regnkapstjenester. Med vår høye faglige kompetanse hos stabile og erfarne kundeansvarlige kan vi være din økonomiske partner og rådgiver.
-NB: Bruker selv Tripletex og 24SevenOffice. Men hjelper også kunder med andre regnskapssystemer som f.eks Fiken.
+NB: Bruker selv Tripletex og [Finago]([url](https://finago.no/)). Men hjelper også kunder med andre regnskapssystemer som f.eks Fiken.
 
 Andre regnskapsførere som nettverket har gode erfaringer med:
 
